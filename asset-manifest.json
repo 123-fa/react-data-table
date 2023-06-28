@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/123-fa/react-data-table.git/static/css/main.d20202a4.css",
+    "main.js": "/123-fa/react-data-table.git/static/js/main.1e7dfa69.js",
+    "index.html": "/123-fa/react-data-table.git/index.html",
+    "main.d20202a4.css.map": "/123-fa/react-data-table.git/static/css/main.d20202a4.css.map",
+    "main.1e7dfa69.js.map": "/123-fa/react-data-table.git/static/js/main.1e7dfa69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.1e7dfa69.js"
+  ]
+}
